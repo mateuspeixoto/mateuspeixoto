@@ -1,5 +1,5 @@
 <p align="center">
-<img width="800" height="235" src="https://raw.githubusercontent.com/mateuspeixoto/mateuspeixoto/master/Hi%20there%2C%20I'm%20Mateus.gif">
+<img width="750" height="225" src="https://raw.githubusercontent.com/mateuspeixoto/mateuspeixoto/master/Hi%20there%2C%20I'm%20Mateus.gif">
 
 
 [<img align="left" alt="mateuspeixoto | YouTube" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1614500667~hmac=019db06f7ff8635dfb67445c747b09e0" />](https://www.youtube.com/channel/UCSKlIutsnNH_hlH9VGVmlgw)
@@ -12,10 +12,13 @@
 <p align="center">
   <h3 align="center"> I'm 20 years old Student from Brazil </h3>
 </p>
-Besides being a continuous student of life, I am completely fascinated by innovation and technology: Robotics, Automation, renewable energies and programming are the main ones. I believe that technology has the power to democratize knowledge for everyone, thanks to the internet, I was able to do everything from learning English to going to college, it makes me want to contribute to help more people, who like me, did not have access to education quality at school.
+Besides being a continuous student of life, I am completely fascinated by innovation and technology: Robotics, Automation, renewable energies and programming are the main ones. I believe that technology has the power to democratize knowledge for everyone, thanks to the internet, I was able to do everything from learning English to going to college, it makes me want to contribute to help more people, who just like me, did not have access to education quality at school.
 
 <br>
 <br>
+<p align="right">
+<img  alt="teste" width="20" height="50" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
+</p>
 
 - 🌱 I’m currently learning Java, My SQL, Angular and SpringBoot at GenerationBrasil.org
 - 👯 I’m looking to collaborate anywhere
@@ -46,6 +49,10 @@ Besides being a continuous student of life, I am completely fascinated by innova
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=orange)
 ![git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats-mateuspeixoto.vercel.app/api?username=mateuspeixoto&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats-mateuspeixoto.vercel.app/api/top-langs/?username=mateuspeixoto&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <!--
 **mateuspeixoto/mateuspeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
