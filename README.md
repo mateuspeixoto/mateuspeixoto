@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+<img width="700" height="250" src="https://raw.githubusercontent.com/mateuspeixoto/mateuspeixoto/master/Hi%20there%2C%20I'm%20Mateus.gif">
+<p>
+
 
 <!--
 **mateuspeixoto/mateuspeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
