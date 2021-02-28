@@ -1,6 +1,13 @@
 <p align="center">
 <img width="800" height="235" src="https://raw.githubusercontent.com/mateuspeixoto/mateuspeixoto/master/Hi%20there%2C%20I'm%20Mateus.gif">
+
+
+[<img align="left" alt="mateuspeixoto | YouTube" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1614500667~hmac=019db06f7ff8635dfb67445c747b09e0" />](https://www.youtube.com/channel/UCSKlIutsnNH_hlH9VGVmlgw)
+[<img align="left" alt="mateuspeixoto | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614500518~hmac=c4116eb47140c3d1d86b18acd211e89f" />](https://www.linkedin.com/in/perfilmateuspeixoto/)
+[<img align="left" alt="mateus_band | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1614500257~hmac=5cf95fbcf94c19242b7ec89660e8a40f" />](https://www.instagram.com/mateus_band/)
 <p>
+
+<br />
 
 <p align="center">
   <h3 align="center"> I'm 20 years old Student from Brazil </h3>
@@ -13,7 +20,6 @@ Besides being a continuous student of life, I am completely fascinated by innova
 - 🌱 I’m currently learning Java, My SQL, Angular and SpringBoot at GenerationBrasil.org
 - 👯 I’m looking to collaborate anywhere
 - 💬 Ask me about Robotics, São Paulo, Java, Cooking
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I know how to produce combustible gas from the rest of the garbage
 
 ### Spotify Playing 🎧
@@ -30,16 +36,16 @@ Besides being a continuous student of life, I am completely fascinated by innova
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+![Java](https://img.shields.io/badge/Java-green?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-6383E8?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-191970?style=for-the-badge&logo=mysql&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-000?style=for-the-badge&logo=eclipse&logoColor=white)
+![Vscode](https://img.shields.io/badge/VSCode-6383E8?style=for-the-badge&logo=)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=orange)
+![git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **mateuspeixoto/mateuspeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
