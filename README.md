@@ -16,9 +16,6 @@ Besides being a continuous student of life, I am completely fascinated by innova
 
 <br>
 <br>
-<p align="right">
-<img  alt="teste" width="20" height="50" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
-</p>
 
 - 🌱 I’m currently learning Java, My SQL, Angular and SpringBoot at GenerationBrasil.org
 - 👯 I’m looking to collaborate anywhere
