@@ -23,7 +23,7 @@ Besides being a continuous student of life, I am completely fascinated by innova
 
 ---
 
-- 🌱 I’m currently learning Java, My SQL, Angular and SpringBoot at GenerationBrasil.org
+- 🌱 I’m currently learning Html,CSS,JS,Angular, Java, My SQL, Angular and SpringBoot at GenerationBrasil.org
 - 👯 I’m looking to collaborate anywhere
 - 💬 Ask me about Robotics, São Paulo, Java, Cooking
 - ⚡ Fun fact: I know how to produce combustible gas from the rest of the garbage
