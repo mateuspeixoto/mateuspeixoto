@@ -48,6 +48,7 @@ Besides being a continuous student of life, I am completely fascinated by innova
 ![CSS](https://img.shields.io/badge/CSS-6383E8?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-191970?style=for-the-badge&logo=mysql&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-000?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Vscode](https://img.shields.io/badge/VSCode-6383E8?style=for-the-badge&logo=)
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=orange)
