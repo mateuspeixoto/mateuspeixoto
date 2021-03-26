@@ -1,7 +1,7 @@
 <p align="center">
 <img width="750" height="225" src="https://raw.githubusercontent.com/mateuspeixoto/mateuspeixoto/master/Hi%20there%2C%20I'm%20Mateus.gif">
 
-[<img align="left" alt="mateuspeixoto | YouTube" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384060.svg?token=exp=1614500667~hmac=019db06f7ff8635dfb67445c747b09e0" />](https://www.youtube.com/channel/UCSKlIutsnNH_hlH9VGVmlgw)
+[<img align="left" alt="mateuspeixoto | YouTube" width="22px" src="https://github.com/mateuspeixoto/mateuspeixoto/blob/master/youtube%20icon.svg" />](https://www.youtube.com/channel/UCSKlIutsnNH_hlH9VGVmlgw)
 [<img align="left" alt="mateuspeixoto | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614500518~hmac=c4116eb47140c3d1d86b18acd211e89f" />](https://www.linkedin.com/in/perfilmateuspeixoto/)
 [<img align="left" alt="mateus_band | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1614500257~hmac=5cf95fbcf94c19242b7ec89660e8a40f" />](https://www.instagram.com/mateus_band/)
 <p>
